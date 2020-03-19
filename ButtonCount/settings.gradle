@@ -1,0 +1,2 @@
+rootProject.name='ButtonCount'
+include ':app'
